@@ -67,7 +67,7 @@ int main(){
         }
     }
     
-    printf("\n Printing the dynamically allocated 2d array\n");    
+    printf("\nPrinting the dynamically allocated 2d array\n");    
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < column; j++) {
             printf("%d ", two_d_array2[i][j]);
