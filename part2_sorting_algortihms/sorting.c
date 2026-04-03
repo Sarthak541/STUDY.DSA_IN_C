@@ -24,7 +24,7 @@ char* selection_sort(char* input){
 int main(){
     char selection_sort_input[] = "SELECTIONSORT";
     printf("Now we are doing selection_sort \n"
-           "The value of selection sort is %s\n",
+           "The value of selection_sort(selectionsort) is %s\n",
            selection_sort(selection_sort_input));
     return 0;
 }
